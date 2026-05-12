@@ -196,6 +196,10 @@ Any CSV with review text + ratings
 
 Displays:
 
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 104839" src="https://github.com/user-attachments/assets/45f04d75-73eb-482c-a77c-849842b3efda" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 104846" src="https://github.com/user-attachments/assets/98f11896-2733-419a-a09a-20349a7d94f0" />
+
 Total reviews analyzed
 Positive sentiment %
 Negative sentiment %
@@ -221,11 +225,16 @@ Filter reviews by:
 Positive
 Negative
 Neutral
+
 6. Trend Analysis
 
 Visualizes sentiment trends over time.
 
+<img width="1916" height="869" alt="image" src="https://github.com/user-attachments/assets/d8f9fd5c-5c09-4bd7-8b66-df7e56f90f52" />
+
 7. AI Chatbot
+
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/8768b5f7-c0ce-454b-a3cf-f523dd0d908c" />
 
 Allows conversational querying of dataset insights.
 
