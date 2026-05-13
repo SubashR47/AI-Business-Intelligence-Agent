@@ -147,19 +147,30 @@ Business Insights & Recommendations
 
 ---
 
-# Installation
+## Installation
 
-## Step 1 — Clone Repository
+### Step 1 — Clone the Repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/AI-Business-Intelligence-Agent.git
-Step 2 — Open Project Folder
-cd AI-Business-Intelligence-Agent
-Step 3 — Install Dependencies
-pip install -r requirements.txt
-Step 4 — Run Streamlit Application
-streamlit run app.py
+```
 
+### Step 2 — Navigate to the Project Folder
+
+```bash
+cd AI-Business-Intelligence-Agent
+```
+
+### Step 3 — Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4 — Run the Streamlit Application
+
+```bash
+streamlit run app.py
 ```
 
 # Groq API Setup
