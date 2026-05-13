@@ -2,6 +2,8 @@
 
 Universal AI-powered Business Intelligence Agent using Groq Llama3, Sentiment Analysis, Conversational AI, and Streamlit Dashboard.
 
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/f3326073-2184-49dd-a0f7-3f4b42fbc142" />
+
 ---
 
 # Project Overview
